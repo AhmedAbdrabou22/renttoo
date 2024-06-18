@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "name": "home",
+        "slug": "/"
+    },
+    {
+        "id": 2,
+        "name": "Terms & Conditions",
+        "slug": "/page/blank"
+    },
+    {
+        "id": 3,
+        "name": "FAQS",
+        "slug": "/page/faqs"
+    },
+    {
+        "id": 4,
+        "name": "About Us",
+        "slug": "/page/about-us"
+    }
+]
